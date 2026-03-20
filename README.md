@@ -27,6 +27,3 @@ https://dacon.io/competitions/official/236114/overview/description
 ## Key Idea
 - 이상치 제거 + feature engineering이 성능에 큰 영향
 - CatBoost → 범주형 데이터 처리에 효과적
-
-## From this project
-- 저의 첫 AI 프로젝트입니다.
